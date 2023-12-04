@@ -1,0 +1,2 @@
+# pratikum
+pratikum pengolahan gambar
